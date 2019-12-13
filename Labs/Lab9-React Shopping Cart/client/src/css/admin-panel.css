@@ -1,0 +1,17 @@
+#main-section-container {
+    padding: 0 30%;
+}
+
+.shadow-box {
+    max-width: 25% !important;
+    padding: 2% 2% !important;
+}
+
+.display-section th {
+    text-transform: uppercase;
+    color: white;
+}
+
+.display-section td {
+    color: white;
+}
