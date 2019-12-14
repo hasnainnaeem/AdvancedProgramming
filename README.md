@@ -2,7 +2,7 @@
 This repo contains the assignments, labs, &amp; projects completed in Advanced Programming course.
 
 ## Projects
-### [Project 1: Todofy - A Meteor & React App](https://github.com/hasnainnaeem/todo-app-meteor-react)
+### [Presentation Project: Todofy - A Meteor & React App](https://github.com/hasnainnaeem/todo-app-meteor-react)
 
 ## Assignments
 ### [Assignment 1: Wordpress Exploration](https://github.com/hasnainnaeem/AdvancedProgramming/blob/master/Exploring%20%26%20Analyzing%20Wordpress-Assignment1.pdf)
