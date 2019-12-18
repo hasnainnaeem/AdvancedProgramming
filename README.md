@@ -1,5 +1,5 @@
 # AdvancedProgramming
-This repo contains the assignments, labs, &amp; projects completed in Advanced Programming course.
+This repo contains the class activities, assignments, labs, &amp; projects completed in Advanced Programming course.
 
 ## Projects
 ### [Presentation Project: Todofy - A Meteor & React App](https://github.com/hasnainnaeem/Todofy-Meteor-React-App)
