@@ -1,0 +1,23 @@
+doctype html
+html
+  head
+    title= title
+    link(rel='stylesheet', href='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css', integrity='sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T', crossorigin='anonymous')
+  body
+    br
+    h1.text-center Registration Form
+    br
+    div.container
+      form(action='form-handler', method='POST')
+        label(for=name) Full Name:
+        input.form-control(type='text', name='name', placeholder='Enter your name', required='required')
+        br
+        label(for=email) Email:
+        input.form-control(type='email', name='email', placeholder='Enter your email', required='required')
+        br
+        label(for=password) Password:
+          input.form-control(type='password', name='password', placeholder='**********', required='required')
+          br
+        div
+          button.btn.btn-primary(type=submit) Register
+
